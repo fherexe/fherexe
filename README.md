@@ -1,4 +1,4 @@
-## Oi eu sou Fernando Souza mas pode me chamar de Fher, desenvolvedor front-end!
+## Olá,pode me chamar de Fher
 <div align="center">
   <a href="https://github.com/fherexe">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=fherexe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
