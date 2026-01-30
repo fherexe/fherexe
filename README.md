@@ -1,6 +1,6 @@
 ## Olá, pode me chamar de Fher
 
-  
+  <div style="display: inline_block"><br>
     
   <h2> Tenho conhecimento: </h2>
   <img align="center" alt="Fher-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
