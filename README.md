@@ -1,17 +1,54 @@
-## Olá, pode me chamar de Fher
+# 👋 Olá, eu sou Fernando
 
-  <div style="display: inline_block"><br>
-    
-  <h2> Tenho conhecimento: </h2>
-  <img align="center" alt="Fher-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fher-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fher-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  
-<img align="center" alt="Fher-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+Sou **Desenvolvedor Front-end em formação** e estudante do **2º período de Ciência da Computação**.  
+Atualmente construo **projetos pessoais** para consolidar fundamentos de desenvolvimento web, lógica de programação e boas práticas de código.
 
-<div>
-  <h2>Onde me encontrar: </h2>
-  <a href="https://www.linkedin.com/in/fherexe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+Tenho foco em criar **interfaces claras, funcionais, responsivas e acessíveis**, sempre buscando entender o funcionamento por trás das tecnologias — não apenas o resultado final.
 
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+- HTML5  
+- CSS3 (Flexbox, Grid, responsividade)  
+- JavaScript (ES6+)  
+- Git & GitHub  
+- Noções de UI/UX
+- Mobile First
+- VS Code
+
+---
+
+## 🧠 O que estou aprendendo atualmente
+
+- JavaScript moderno e lógica aplicada  
+- Estruturação de projetos front-end  
+- Boas práticas de código e organização  
+- Conceitos fundamentais da Ciência da Computação  
+
+---
+
+## 📂 Projetos
+
+Aqui no meu GitHub você encontrará:
+- Projetos práticos para estudo de Front-end  
+- Exercícios de lógica e JavaScript  
+- Experimentos com layouts, componentes e interações  
+
+Cada projeto representa um passo no meu aprendizado ➡️🚀
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma **oportunidade de estágio ou posição júnior em Front-end**, onde eu possa:
+- aprender com desenvolvedores mais experientes  
+- contribuir com código de qualidade  
+- evoluir tecnicamente e profissionalmente  
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/fherexe
+- LinkedIn: http://linkedin.com/in/fherexe/
