@@ -52,3 +52,4 @@ Busco uma **oportunidade de estágio ou posição júnior em Front-end**, onde e
 
 - GitHub: https://github.com/fherexe
 - LinkedIn: http://linkedin.com/in/fherexe/
+- Email: fernandosouza.fieee@gmail.com
