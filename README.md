@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Fernando Pacheco
 
 Sou **Desenvolvedor Front-end em formação** e estudante do **2º período de Ciência da Computação**.  
-Atualmente construo **projetos pessoais** para consolidar fundamentos de desenvolvimento web, lógica de programação e boas práticas de código.
+Atualmente vendo sites para consolidar fundamentos de desenvolvimento web, lógica de programação e boas práticas de código.
 
 Tenho foco em criar **interfaces claras, funcionais, responsivas e acessíveis**, sempre buscando entender o funcionamento por trás das tecnologias — não apenas o resultado final.
 
