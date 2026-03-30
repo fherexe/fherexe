@@ -16,6 +16,7 @@ Tenho foco em criar **interfaces claras, funcionais, responsivas e acessíveis**
 - Noções de UI/UX
 - Mobile First
 - VS Code
+- Figma
 
 ---
 
